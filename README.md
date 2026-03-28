@@ -97,7 +97,7 @@
 ## 📈 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https://github.com/vhackandekar/vhackandekar/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/vhackandekar/vhackandekar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -105,7 +105,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vhackandekar&theme=onedark&no-frame=true&row=1&column=6" />
+ <img src="https://github-profile-trophy.vercel.app/?username=vhackandekar&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
