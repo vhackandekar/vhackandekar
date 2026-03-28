@@ -58,13 +58,22 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-🥇 **HackFusion 3.0 Winner (2026)**  
-💰 Secured **1st place + ₹1,10,000 prize**
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-Top%201%25-ff0000?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-0A66C2?style=for-the-badge&logo=leetcode" />
+</p>
+---
 
-🎓 **Student of the Year (2024)**  
+### 🥇 HackFusion 3.0 (2026)
+- 🚀 Built an **AI-powered pharmacy system**
+- ⚡ Completed in **36 hours hackathon**
+- 🏅 Achieved **1st Rank among all teams**
 
+### 🎓 Student of the Year (2024)
+- 🌟 Recognized for **overall academic excellence**
+- 📚 Consistent top performance in academics
 ---
 
 ## 🎓 Education
@@ -94,21 +103,7 @@
 
 ---
 
-## 📈 Contribution Graph (Snake Animation 🐍)
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/vhackandekar/vhackandekar/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=vhackandekar&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
