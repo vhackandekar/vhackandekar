@@ -1,100 +1,129 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kandekar</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Focused | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+Focused+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;MERN+Stack+Developer;DSA+Enthusiast;Problem+Solver&center=true&width=550&height=50&color=00F7FF&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vhackandekar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech IT Student at Sanjivani College of Engineering
-- 💻 Full-stack developer with hands-on experience in **MERN stack**
-- ⚙️ Strong focus on **backend development & REST APIs**
-- 🧠 Passionate about building scalable and efficient systems
-- 🏆 Hackathon Winner & Academic Achiever
+## 🧠 About Me
+- 🎓 B.Tech IT Student  
+- 💻 Backend-focused MERN Developer  
+- ⚙️ Strong in REST APIs & scalable systems  
+- 🧩 DSA & Problem Solving Enthusiast  
+- 🏆 Hackathon Winner  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript  
-- Java  
-- Python  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python&theme=dark" />
+</p>
 
 ### 🌐 Frontend
-- HTML  
-- CSS  
-- Bootstrap  
-- React  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- MySQL  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
 
-### 🧰 Tools & Technologies
-- Git & GitHub  
-- Postman  
-- VS Code  
-- n8n  
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+</p>
+
+---
+
+## 🧠 Core Strengths
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Backend-System%20Design-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/REST-API%20Development-orange?style=for-the-badge&logo=postman" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 🥇 **HackFusion 3.0 Winner (2026)**  
-- Built an AI-driven pharmacy system in 36 hours  
-- Secured **1st place + ₹1,10,000 prize**
+💰 Secured **1st place + ₹1,10,000 prize**
 
 🎓 **Student of the Year (2024)**  
-- Recognized for academic excellence and overall performance  
 
 ---
 
 ## 🎓 Education
 
-📘 **B.Tech in Information Technology**  
-Sanjivani College of Engineering, Kopargaon  
+📘 **B.Tech IT**  
+📍 Sanjivani College of Engineering  
 📊 CGPA: 9/10  
 
 📘 **Diploma in Computer Technology**  
-Ashok Polytechnic  
-📊 Percentage: 90%  
+📊 90%  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vhackandekar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhackandekar&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhackandekar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-## 📈 Top Languages
+## 📈 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github.com/vhackandekar/vhackandekar/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vhackandekar&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-kandekar-099a06282  
-- 📧 Email: vkandekar588@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-kandekar-099a06282">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vkandekar588@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## ✨ Fun Fact
-⚡ I love building real-world backend systems and solving complex problems 🚀
+## ⚡ Fun Fact
+
+```diff
++ I don't just write code, I solve problems and build scalable systems 🚀
