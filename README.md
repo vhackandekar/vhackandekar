@@ -61,9 +61,15 @@
 ## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-Top%201%25-ff0000?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-0A66C2?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/🏆%20HackFusion%203.0-Winner%202026-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💰%20Prize-₹1,10,000-success?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20Student%20of%20the%20Year-2024-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Academic%20Excellence-Top%20Performer-orange?style=for-the-badge" />
+</p>
+
 ---
 
 ### 🥇 HackFusion 3.0 (2026)
@@ -74,7 +80,6 @@
 ### 🎓 Student of the Year (2024)
 - 🌟 Recognized for **overall academic excellence**
 - 📚 Consistent top performance in academics
----
 
 ## 🎓 Education
 
